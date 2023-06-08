@@ -1,6 +1,6 @@
 # wordpress-user-finder
 
-This script finds usernames in wordpress site
+This script findes usernames in your wordpress target site 
 
 How to use :
 
