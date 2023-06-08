@@ -13,6 +13,10 @@ and using python3
 
 How to use with tor :
 
+open terminal and run tor 
+
+after that on the other terminal
+
 pip install requests
 
 pip install socks
