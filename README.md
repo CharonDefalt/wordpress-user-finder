@@ -21,6 +21,8 @@ pip install requests
 
 pip install socks
 
+pip install termcolor
+
 and using python3
 
 Enjoy:)
